@@ -1,9 +1,6 @@
 class Solution(object):
     def freqAlphabets(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
+      
         result = []
         i = 0
         while i < len(s):
